@@ -747,3 +747,44 @@ True  --  Correct
 
 It is OK to discard theoretical considerations for Statistical Measures
 False  --  Correct
+
+
+BlockChain :
+
+Bankchain is an example of _______. - Private Blockchain 
+BlockChain provides ___________ database of every transaction involving value. - Open Decentralized
+Digital assets must always be tangible. - false
+Bitcoin network would make it impossible to bypass the traditional financial intermediaries. -False
+Private Blockchain is a de-centralized type of Blockchain? - Fasle
+Blockchain which is popularly known as ‘for the people, by the people and of the people” is ___________. - Public Blockchain
+Consortium Blockchain provides a faster and more protected ecosystem than a Private Blockchain? - true 
+Mainly how many types of blockchains have emerged after bitcoin introduced blockchain to the world? - Three
+Name the first cryptocurrency with computing power contribution? -  Gridcoin
+HASH can be used to validate the input? - true
+The value of cryptocurrency is independent of market conditions such as supply and demand. - false
+Encrypted text is also known as ____________. - Cipher Text       
+Encryption reduces data security? - false
+We can buy cryptocurrency. - fasle
+The value of coins ( litecoin, bitcoin) is same at a particular time. - false
+The two types of cryptography are ______________. - Asymmetric and Symmetric
+The rate of generation of new bitcoins is constant.-  false
+The higher the computational power, the lower is the difficulty in mining. - fasle
+Which among the following are the advantages of using Bitcoin? - All the options
+Bitcoins can be purchased in exchange of services. -  true
+We may use bitcoin for purchasing merchandise as well? - true
+The output of Hashing is popularly known as _______ . -Digest
+The sender and the receiver in a transaction provide miners with a fee. - false
+Ether provides greater flexibility than Bitcoin does. -true 
+New bitcoins are released every time a transaction is verified. - true
+Ethereum is a digital currency.-    false
+Which of the following platform(s) provides a modular architecture? - Hyperledger
+Which platform could gain its best use case from financial service industry? - R3 Corda
+Which platform could gain its best use case from supply chain industry? -Hyperledger      
+There is no cryptographic protocol that can be used to secure HTTP connection. - False
+Hyperledger allows us to customize the visibility of a transaction in a blockchain. - true
+
+
+The first smart contract platform is _______ - Ethereum Hyperledger Fabric  Blockchain[wrong] R3 Corda[wrong]
+The three concepts used to explain the foundation of blockchain are __________________ -  Digital Ledger, Physical Assets, Banks  / Business Network, Ledger, Physical Assets  / Digital Ledger, Physical Assets, Banks[wrong] Ledger, Bitcoins, Digital Identity[wrong]
+Which among the following is the most flexible cryptocurrency? -   Litecoin Ether[wrong] Bitcoin[wrong]
+
